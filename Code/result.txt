@@ -1,0 +1,1097 @@
+Datasets.Celegansneural
+Feature_Calculator_Enum.Common_Neighbor
+Feature_Level_Enum.Level_1
+All Count : 214
+Correct Count : 26.0
+AUC : 0.5607476635514018
+-------------------------------------
+Datasets.Celegansneural
+Feature_Calculator_Enum.Common_Neighbor
+Feature_Level_Enum.Level_2
+All Count : 214
+Correct Count : 29.0
+AUC : 0.5677570093457944
+-------------------------------------
+Datasets.Celegansneural
+Feature_Calculator_Enum.Common_Neighbor
+Feature_Level_Enum.Level_1_And_2
+All Count : 214
+Correct Count : 29.0
+AUC : 0.5677570093457944
+-------------------------------------
+Datasets.Celegansneural
+Feature_Calculator_Enum.Preferential_Attachment
+Feature_Level_Enum.Level_1
+All Count : 214
+Correct Count : 11.0
+AUC : 0.5257009345794392
+-------------------------------------
+Datasets.Celegansneural
+Feature_Calculator_Enum.Preferential_Attachment
+Feature_Level_Enum.Level_2
+All Count : 214
+Correct Count : 23.0
+AUC : 0.5537383177570093
+-------------------------------------
+Datasets.Celegansneural
+Feature_Calculator_Enum.Preferential_Attachment
+Feature_Level_Enum.Level_1_And_2
+All Count : 214
+Correct Count : 23.0
+AUC : 0.5537383177570093
+-------------------------------------
+Datasets.Celegansneural
+Feature_Calculator_Enum.Resource_Allocation
+Feature_Level_Enum.Level_1
+All Count : 214
+Correct Count : 21.0
+AUC : 0.5490654205607477
+-------------------------------------
+Datasets.Celegansneural
+Feature_Calculator_Enum.Resource_Allocation
+Feature_Level_Enum.Level_2
+All Count : 214
+Correct Count : 26.0
+AUC : 0.5607476635514018
+-------------------------------------
+Datasets.Celegansneural
+Feature_Calculator_Enum.Resource_Allocation
+Feature_Level_Enum.Level_1_And_2
+All Count : 214
+Correct Count : 28.0
+AUC : 0.5654205607476636
+-------------------------------------
+Datasets.Celegansneural
+Feature_Calculator_Enum.Adamic_Adar
+Feature_Level_Enum.Level_1
+All Count : 214
+Correct Count : 23.0
+AUC : 0.5537383177570093
+-------------------------------------
+Datasets.Celegansneural
+Feature_Calculator_Enum.Adamic_Adar
+Feature_Level_Enum.Level_2
+All Count : 214
+Correct Count : 27.0
+AUC : 0.5630841121495327
+-------------------------------------
+Datasets.Celegansneural
+Feature_Calculator_Enum.Adamic_Adar
+Feature_Level_Enum.Level_1_And_2
+All Count : 214
+Correct Count : 28.0
+AUC : 0.5654205607476636
+-------------------------------------
+Datasets.Celegansneural
+Feature_Calculator_Enum.Jaccard
+Feature_Level_Enum.Level_1
+All Count : 214
+Correct Count : 5.0
+AUC : 0.5116822429906542
+-------------------------------------
+Datasets.Celegansneural
+Feature_Calculator_Enum.Jaccard
+Feature_Level_Enum.Level_2
+All Count : 214
+Correct Count : 27.0
+AUC : 0.5630841121495327
+-------------------------------------
+Datasets.Celegansneural
+Feature_Calculator_Enum.Jaccard
+Feature_Level_Enum.Level_1_And_2
+All Count : 214
+Correct Count : 7.0
+AUC : 0.5163551401869159
+-------------------------------------
+Datasets.Celegansneural
+Feature_Calculator_Enum.Clustering_Coefficient
+Feature_Level_Enum.Level_1
+All Count : 214
+Correct Count : 23.0
+AUC : 0.5537383177570093
+-------------------------------------
+Datasets.Celegansneural
+Feature_Calculator_Enum.Clustering_Coefficient
+Feature_Level_Enum.Level_2
+All Count : 214
+Correct Count : 27.0
+AUC : 0.5630841121495327
+-------------------------------------
+Datasets.Celegansneural
+Feature_Calculator_Enum.Clustering_Coefficient
+Feature_Level_Enum.Level_1_And_2
+All Count : 214
+Correct Count : 30.0
+AUC : 0.5700934579439252
+-------------------------------------
+Datasets.Celegansneural
+Feature_Calculator_Enum.Local_Naive_Bayes_based_Common_Neighbor
+Feature_Level_Enum.Level_1
+**************Exception**************
+Datasets.Celegansneural
+Feature_Calculator_Enum.Local_Naive_Bayes_based_Common_Neighbor
+Feature_Level_Enum.Level_2
+All Count : 214
+Correct Count : 28.0
+AUC : 0.5654205607476636
+-------------------------------------
+Datasets.Celegansneural
+Feature_Calculator_Enum.Local_Naive_Bayes_based_Common_Neighbor
+Feature_Level_Enum.Level_1_And_2
+**************Exception**************
+Datasets.Celegansneural
+Feature_Calculator_Enum.Node_and_Link_Clustering_Coefficient
+Feature_Level_Enum.Level_1
+All Count : 214
+Correct Count : 24.0
+AUC : 0.5560747663551402
+-------------------------------------
+Datasets.Celegansneural
+Feature_Calculator_Enum.Node_and_Link_Clustering_Coefficient
+Feature_Level_Enum.Level_2
+All Count : 214
+Correct Count : 30.0
+AUC : 0.5700934579439252
+-------------------------------------
+Datasets.Celegansneural
+Feature_Calculator_Enum.Node_and_Link_Clustering_Coefficient
+Feature_Level_Enum.Level_1_And_2
+All Count : 214
+Correct Count : 30.0
+AUC : 0.5700934579439252
+-------------------------------------
+Datasets.Celegansneural
+Feature_Calculator_Enum.CAR
+Feature_Level_Enum.Level_1
+All Count : 214
+Correct Count : 19.0
+AUC : 0.544392523364486
+-------------------------------------
+Datasets.Celegansneural
+Feature_Calculator_Enum.CAR
+Feature_Level_Enum.Level_2
+All Count : 214
+Correct Count : 28.0
+AUC : 0.5654205607476636
+-------------------------------------
+Datasets.Celegansneural
+Feature_Calculator_Enum.CAR
+Feature_Level_Enum.Level_1_And_2
+All Count : 214
+Correct Count : 29.0
+AUC : 0.5677570093457944
+-------------------------------------
+Datasets.Football
+Feature_Calculator_Enum.Common_Neighbor
+Feature_Level_Enum.Level_1
+All Count : 61
+Correct Count : 14.0
+AUC : 0.6147540983606558
+-------------------------------------
+Datasets.Football
+Feature_Calculator_Enum.Common_Neighbor
+Feature_Level_Enum.Level_2
+All Count : 61
+Correct Count : 1.0
+AUC : 0.5081967213114754
+-------------------------------------
+Datasets.Football
+Feature_Calculator_Enum.Common_Neighbor
+Feature_Level_Enum.Level_1_And_2
+All Count : 61
+Correct Count : 0.0
+AUC : 0.5
+-------------------------------------
+Datasets.Football
+Feature_Calculator_Enum.Preferential_Attachment
+Feature_Level_Enum.Level_1
+All Count : 61
+Correct Count : 0.0
+AUC : 0.5
+-------------------------------------
+Datasets.Football
+Feature_Calculator_Enum.Preferential_Attachment
+Feature_Level_Enum.Level_2
+All Count : 61
+Correct Count : 13.0
+AUC : 0.6065573770491803
+-------------------------------------
+Datasets.Football
+Feature_Calculator_Enum.Preferential_Attachment
+Feature_Level_Enum.Level_1_And_2
+All Count : 61
+Correct Count : 13.0
+AUC : 0.6065573770491803
+-------------------------------------
+Datasets.Football
+Feature_Calculator_Enum.Resource_Allocation
+Feature_Level_Enum.Level_1
+All Count : 61
+Correct Count : 17.0
+AUC : 0.639344262295082
+-------------------------------------
+Datasets.Football
+Feature_Calculator_Enum.Resource_Allocation
+Feature_Level_Enum.Level_2
+All Count : 61
+Correct Count : 2.0
+AUC : 0.5163934426229508
+-------------------------------------
+Datasets.Football
+Feature_Calculator_Enum.Resource_Allocation
+Feature_Level_Enum.Level_1_And_2
+All Count : 61
+Correct Count : 3.0
+AUC : 0.5245901639344263
+-------------------------------------
+Datasets.Football
+Feature_Calculator_Enum.Adamic_Adar
+Feature_Level_Enum.Level_1
+All Count : 61
+Correct Count : 17.0
+AUC : 0.639344262295082
+-------------------------------------
+Datasets.Football
+Feature_Calculator_Enum.Adamic_Adar
+Feature_Level_Enum.Level_2
+All Count : 61
+Correct Count : 2.0
+AUC : 0.5163934426229508
+-------------------------------------
+Datasets.Football
+Feature_Calculator_Enum.Adamic_Adar
+Feature_Level_Enum.Level_1_And_2
+All Count : 61
+Correct Count : 0.0
+AUC : 0.5
+-------------------------------------
+Datasets.Football
+Feature_Calculator_Enum.Jaccard
+Feature_Level_Enum.Level_1
+All Count : 61
+Correct Count : 19.0
+AUC : 0.6557377049180328
+-------------------------------------
+Datasets.Football
+Feature_Calculator_Enum.Jaccard
+Feature_Level_Enum.Level_2
+All Count : 61
+Correct Count : 2.0
+AUC : 0.5163934426229508
+-------------------------------------
+Datasets.Football
+Feature_Calculator_Enum.Jaccard
+Feature_Level_Enum.Level_1_And_2
+All Count : 61
+Correct Count : 13.0
+AUC : 0.6065573770491803
+-------------------------------------
+Datasets.Football
+Feature_Calculator_Enum.Clustering_Coefficient
+Feature_Level_Enum.Level_1
+All Count : 61
+Correct Count : 16.0
+AUC : 0.6311475409836066
+-------------------------------------
+Datasets.Football
+Feature_Calculator_Enum.Clustering_Coefficient
+Feature_Level_Enum.Level_2
+All Count : 61
+Correct Count : 0.0
+AUC : 0.5
+-------------------------------------
+Datasets.Football
+Feature_Calculator_Enum.Clustering_Coefficient
+Feature_Level_Enum.Level_1_And_2
+All Count : 61
+Correct Count : 0.0
+AUC : 0.5
+-------------------------------------
+Datasets.Football
+Feature_Calculator_Enum.Local_Naive_Bayes_based_Common_Neighbor
+Feature_Level_Enum.Level_1
+All Count : 61
+Correct Count : 16.0
+AUC : 0.6311475409836066
+-------------------------------------
+Datasets.Football
+Feature_Calculator_Enum.Local_Naive_Bayes_based_Common_Neighbor
+Feature_Level_Enum.Level_2
+All Count : 61
+Correct Count : 0.0
+AUC : 0.5
+-------------------------------------
+Datasets.Football
+Feature_Calculator_Enum.Local_Naive_Bayes_based_Common_Neighbor
+Feature_Level_Enum.Level_1_And_2
+All Count : 61
+Correct Count : 0.0
+AUC : 0.5
+-------------------------------------
+Datasets.Football
+Feature_Calculator_Enum.Node_and_Link_Clustering_Coefficient
+Feature_Level_Enum.Level_1
+All Count : 61
+Correct Count : 16.0
+AUC : 0.6311475409836066
+-------------------------------------
+Datasets.Football
+Feature_Calculator_Enum.Node_and_Link_Clustering_Coefficient
+Feature_Level_Enum.Level_2
+All Count : 61
+Correct Count : 0.0
+AUC : 0.5
+-------------------------------------
+Datasets.Football
+Feature_Calculator_Enum.Node_and_Link_Clustering_Coefficient
+Feature_Level_Enum.Level_1_And_2
+All Count : 61
+Correct Count : 2.0
+AUC : 0.5163934426229508
+-------------------------------------
+Datasets.Football
+Feature_Calculator_Enum.CAR
+Feature_Level_Enum.Level_1
+All Count : 61
+Correct Count : 17.0
+AUC : 0.639344262295082
+-------------------------------------
+Datasets.Football
+Feature_Calculator_Enum.CAR
+Feature_Level_Enum.Level_2
+All Count : 61
+Correct Count : 0.0
+AUC : 0.5
+-------------------------------------
+Datasets.Football
+Feature_Calculator_Enum.CAR
+Feature_Level_Enum.Level_1_And_2
+All Count : 61
+Correct Count : 0.0
+AUC : 0.5
+-------------------------------------
+Datasets.Macaque
+Feature_Calculator_Enum.Common_Neighbor
+Feature_Level_Enum.Level_1
+All Count : 140
+Correct Count : 45.0
+AUC : 0.6607142857142857
+-------------------------------------
+Datasets.Macaque
+Feature_Calculator_Enum.Common_Neighbor
+Feature_Level_Enum.Level_2
+All Count : 140
+Correct Count : 28.0
+AUC : 0.6
+-------------------------------------
+Datasets.Macaque
+Feature_Calculator_Enum.Common_Neighbor
+Feature_Level_Enum.Level_1_And_2
+All Count : 140
+Correct Count : 50.0
+AUC : 0.6785714285714286
+-------------------------------------
+Datasets.Macaque
+Feature_Calculator_Enum.Preferential_Attachment
+Feature_Level_Enum.Level_1
+All Count : 140
+Correct Count : 50.0
+AUC : 0.6785714285714286
+-------------------------------------
+Datasets.Macaque
+Feature_Calculator_Enum.Preferential_Attachment
+Feature_Level_Enum.Level_2
+All Count : 140
+Correct Count : 55.0
+AUC : 0.6964285714285714
+-------------------------------------
+Datasets.Macaque
+Feature_Calculator_Enum.Preferential_Attachment
+Feature_Level_Enum.Level_1_And_2
+All Count : 140
+Correct Count : 55.0
+AUC : 0.6964285714285714
+-------------------------------------
+Datasets.Macaque
+Feature_Calculator_Enum.Resource_Allocation
+Feature_Level_Enum.Level_1
+All Count : 140
+Correct Count : 44.0
+AUC : 0.6571428571428571
+-------------------------------------
+Datasets.Macaque
+Feature_Calculator_Enum.Resource_Allocation
+Feature_Level_Enum.Level_2
+All Count : 140
+Correct Count : 39.0
+AUC : 0.6392857142857142
+-------------------------------------
+Datasets.Macaque
+Feature_Calculator_Enum.Resource_Allocation
+Feature_Level_Enum.Level_1_And_2
+All Count : 140
+Correct Count : 54.0
+AUC : 0.6928571428571428
+-------------------------------------
+Datasets.Macaque
+Feature_Calculator_Enum.Adamic_Adar
+Feature_Level_Enum.Level_1
+All Count : 140
+Correct Count : 46.0
+AUC : 0.6642857142857143
+-------------------------------------
+Datasets.Macaque
+Feature_Calculator_Enum.Adamic_Adar
+Feature_Level_Enum.Level_2
+All Count : 140
+Correct Count : 30.0
+AUC : 0.6071428571428571
+-------------------------------------
+Datasets.Macaque
+Feature_Calculator_Enum.Adamic_Adar
+Feature_Level_Enum.Level_1_And_2
+All Count : 140
+Correct Count : 54.0
+AUC : 0.6928571428571428
+-------------------------------------
+Datasets.Macaque
+Feature_Calculator_Enum.Jaccard
+Feature_Level_Enum.Level_1
+All Count : 140
+Correct Count : 2.0
+AUC : 0.5071428571428571
+-------------------------------------
+Datasets.Macaque
+Feature_Calculator_Enum.Jaccard
+Feature_Level_Enum.Level_2
+All Count : 140
+Correct Count : 28.0
+AUC : 0.6
+-------------------------------------
+Datasets.Macaque
+Feature_Calculator_Enum.Jaccard
+Feature_Level_Enum.Level_1_And_2
+All Count : 140
+Correct Count : 55.0
+AUC : 0.6964285714285714
+-------------------------------------
+Datasets.Macaque
+Feature_Calculator_Enum.Clustering_Coefficient
+Feature_Level_Enum.Level_1
+All Count : 140
+Correct Count : 46.0
+AUC : 0.6642857142857143
+-------------------------------------
+Datasets.Macaque
+Feature_Calculator_Enum.Clustering_Coefficient
+Feature_Level_Enum.Level_2
+All Count : 140
+Correct Count : 37.0
+AUC : 0.6321428571428571
+-------------------------------------
+Datasets.Macaque
+Feature_Calculator_Enum.Clustering_Coefficient
+Feature_Level_Enum.Level_1_And_2
+All Count : 140
+Correct Count : 54.0
+AUC : 0.6928571428571428
+-------------------------------------
+Datasets.Macaque
+Feature_Calculator_Enum.Local_Naive_Bayes_based_Common_Neighbor
+Feature_Level_Enum.Level_1
+All Count : 140
+Correct Count : 44.0
+AUC : 0.6571428571428571
+-------------------------------------
+Datasets.Macaque
+Feature_Calculator_Enum.Local_Naive_Bayes_based_Common_Neighbor
+Feature_Level_Enum.Level_2
+All Count : 140
+Correct Count : 39.0
+AUC : 0.6392857142857142
+-------------------------------------
+Datasets.Macaque
+Feature_Calculator_Enum.Local_Naive_Bayes_based_Common_Neighbor
+Feature_Level_Enum.Level_1_And_2
+All Count : 140
+Correct Count : 55.0
+AUC : 0.6964285714285714
+-------------------------------------
+Datasets.Macaque
+Feature_Calculator_Enum.Node_and_Link_Clustering_Coefficient
+Feature_Level_Enum.Level_1
+All Count : 140
+Correct Count : 52.0
+AUC : 0.6857142857142857
+-------------------------------------
+Datasets.Macaque
+Feature_Calculator_Enum.Node_and_Link_Clustering_Coefficient
+Feature_Level_Enum.Level_2
+All Count : 140
+Correct Count : 48.0
+AUC : 0.6714285714285715
+-------------------------------------
+Datasets.Macaque
+Feature_Calculator_Enum.Node_and_Link_Clustering_Coefficient
+Feature_Level_Enum.Level_1_And_2
+All Count : 140
+Correct Count : 61.0
+AUC : 0.7178571428571429
+-------------------------------------
+Datasets.Macaque
+Feature_Calculator_Enum.CAR
+Feature_Level_Enum.Level_1
+All Count : 140
+Correct Count : 45.0
+AUC : 0.6607142857142857
+-------------------------------------
+Datasets.Macaque
+Feature_Calculator_Enum.CAR
+Feature_Level_Enum.Level_2
+All Count : 140
+Correct Count : 26.0
+AUC : 0.5928571428571429
+-------------------------------------
+Datasets.Macaque
+Feature_Calculator_Enum.CAR
+Feature_Level_Enum.Level_1_And_2
+All Count : 140
+Correct Count : 29.0
+AUC : 0.6035714285714285
+-------------------------------------
+Datasets.USAir97
+Feature_Calculator_Enum.Common_Neighbor
+Feature_Level_Enum.Level_1
+All Count : 212
+Correct Count : 73.0
+AUC : 0.6721698113207547
+-------------------------------------
+Datasets.USAir97
+Feature_Calculator_Enum.Common_Neighbor
+Feature_Level_Enum.Level_2
+All Count : 212
+Correct Count : 29.0
+AUC : 0.5683962264150944
+-------------------------------------
+Datasets.USAir97
+Feature_Calculator_Enum.Common_Neighbor
+Feature_Level_Enum.Level_1_And_2
+All Count : 212
+Correct Count : 48.0
+AUC : 0.6132075471698113
+-------------------------------------
+Datasets.USAir97
+Feature_Calculator_Enum.Preferential_Attachment
+Feature_Level_Enum.Level_1
+All Count : 212
+Correct Count : 67.0
+AUC : 0.6580188679245282
+-------------------------------------
+Datasets.USAir97
+Feature_Calculator_Enum.Preferential_Attachment
+Feature_Level_Enum.Level_2
+All Count : 212
+Correct Count : 72.0
+AUC : 0.6698113207547169
+-------------------------------------
+Datasets.USAir97
+Feature_Calculator_Enum.Preferential_Attachment
+Feature_Level_Enum.Level_1_And_2
+All Count : 212
+Correct Count : 71.0
+AUC : 0.6674528301886793
+-------------------------------------
+Datasets.USAir97
+Feature_Calculator_Enum.Resource_Allocation
+Feature_Level_Enum.Level_1
+All Count : 212
+Correct Count : 88.0
+AUC : 0.7075471698113207
+-------------------------------------
+Datasets.USAir97
+Feature_Calculator_Enum.Resource_Allocation
+Feature_Level_Enum.Level_2
+All Count : 212
+Correct Count : 54.0
+AUC : 0.6273584905660378
+-------------------------------------
+Datasets.USAir97
+Feature_Calculator_Enum.Resource_Allocation
+Feature_Level_Enum.Level_1_And_2
+All Count : 212
+Correct Count : 56.0
+AUC : 0.6320754716981132
+-------------------------------------
+Datasets.USAir97
+Feature_Calculator_Enum.Adamic_Adar
+Feature_Level_Enum.Level_1
+All Count : 212
+Correct Count : 75.0
+AUC : 0.6768867924528301
+-------------------------------------
+Datasets.USAir97
+Feature_Calculator_Enum.Adamic_Adar
+Feature_Level_Enum.Level_2
+All Count : 212
+Correct Count : 41.0
+AUC : 0.5966981132075472
+-------------------------------------
+Datasets.USAir97
+Feature_Calculator_Enum.Adamic_Adar
+Feature_Level_Enum.Level_1_And_2
+All Count : 212
+Correct Count : 51.0
+AUC : 0.6202830188679245
+-------------------------------------
+Datasets.USAir97
+Feature_Calculator_Enum.Jaccard
+Feature_Level_Enum.Level_1
+**************Exception**************
+Datasets.USAir97
+Feature_Calculator_Enum.Jaccard
+Feature_Level_Enum.Level_2
+**************Exception**************
+Datasets.USAir97
+Feature_Calculator_Enum.Jaccard
+Feature_Level_Enum.Level_1_And_2
+**************Exception**************
+Datasets.USAir97
+Feature_Calculator_Enum.Clustering_Coefficient
+Feature_Level_Enum.Level_1
+All Count : 212
+Correct Count : 71.0
+AUC : 0.6674528301886793
+-------------------------------------
+Datasets.USAir97
+Feature_Calculator_Enum.Clustering_Coefficient
+Feature_Level_Enum.Level_2
+All Count : 212
+Correct Count : 33.0
+AUC : 0.5778301886792453
+-------------------------------------
+Datasets.USAir97
+Feature_Calculator_Enum.Clustering_Coefficient
+Feature_Level_Enum.Level_1_And_2
+All Count : 212
+Correct Count : 47.0
+AUC : 0.6108490566037736
+-------------------------------------
+Datasets.USAir97
+Feature_Calculator_Enum.Local_Naive_Bayes_based_Common_Neighbor
+Feature_Level_Enum.Level_1
+**************Exception**************
+Datasets.USAir97
+Feature_Calculator_Enum.Local_Naive_Bayes_based_Common_Neighbor
+Feature_Level_Enum.Level_2
+All Count : 212
+Correct Count : 38.0
+AUC : 0.589622641509434
+-------------------------------------
+Datasets.USAir97
+Feature_Calculator_Enum.Local_Naive_Bayes_based_Common_Neighbor
+Feature_Level_Enum.Level_1_And_2
+**************Exception**************
+Datasets.USAir97
+Feature_Calculator_Enum.Node_and_Link_Clustering_Coefficient
+Feature_Level_Enum.Level_1
+All Count : 212
+Correct Count : 73.0
+AUC : 0.6721698113207547
+-------------------------------------
+Datasets.USAir97
+Feature_Calculator_Enum.Node_and_Link_Clustering_Coefficient
+Feature_Level_Enum.Level_2
+All Count : 212
+Correct Count : 46.0
+AUC : 0.6084905660377359
+-------------------------------------
+Datasets.USAir97
+Feature_Calculator_Enum.Node_and_Link_Clustering_Coefficient
+Feature_Level_Enum.Level_1_And_2
+All Count : 212
+Correct Count : 65.0
+AUC : 0.6533018867924528
+-------------------------------------
+Datasets.USAir97
+Feature_Calculator_Enum.CAR
+Feature_Level_Enum.Level_1
+All Count : 212
+Correct Count : 71.0
+AUC : 0.6674528301886793
+-------------------------------------
+Datasets.USAir97
+Feature_Calculator_Enum.CAR
+Feature_Level_Enum.Level_2
+All Count : 212
+Correct Count : 21.0
+AUC : 0.5495283018867925
+-------------------------------------
+Datasets.USAir97
+Feature_Calculator_Enum.CAR
+Feature_Level_Enum.Level_1_And_2
+All Count : 212
+Correct Count : 21.0
+AUC : 0.5495283018867925
+-------------------------------------
+Datasets.Polblogs
+Feature_Calculator_Enum.Common_Neighbor
+Feature_Level_Enum.Level_1
+All Count : 1671
+Correct Count : 301.0
+AUC : 0.590065828845003
+-------------------------------------
+Datasets.Polblogs
+Feature_Calculator_Enum.Common_Neighbor
+Feature_Level_Enum.Level_2
+All Count : 1671
+Correct Count : 178.0
+AUC : 0.5532615200478755
+-------------------------------------
+Datasets.Polblogs
+Feature_Calculator_Enum.Common_Neighbor
+Feature_Level_Enum.Level_1_And_2
+All Count : 1671
+Correct Count : 196.0
+AUC : 0.5586475164572112
+-------------------------------------
+Datasets.Polblogs
+Feature_Calculator_Enum.Preferential_Attachment
+Feature_Level_Enum.Level_1
+All Count : 1671
+Correct Count : 107.0
+AUC : 0.5320167564332735
+-------------------------------------
+Datasets.Polblogs
+Feature_Calculator_Enum.Preferential_Attachment
+Feature_Level_Enum.Level_2
+All Count : 1671
+Correct Count : 307.0
+AUC : 0.5918611609814483
+-------------------------------------
+Datasets.Polblogs
+Feature_Calculator_Enum.Preferential_Attachment
+Feature_Level_Enum.Level_1_And_2
+All Count : 1671
+Correct Count : 305.0
+AUC : 0.5912627169359665
+-------------------------------------
+Datasets.Polblogs
+Feature_Calculator_Enum.Resource_Allocation
+Feature_Level_Enum.Level_1
+All Count : 1671
+Correct Count : 261.0
+AUC : 0.578096947935368
+-------------------------------------
+Datasets.Polblogs
+Feature_Calculator_Enum.Resource_Allocation
+Feature_Level_Enum.Level_2
+All Count : 1671
+Correct Count : 205.0
+AUC : 0.5613405146618791
+-------------------------------------
+Datasets.Polblogs
+Feature_Calculator_Enum.Resource_Allocation
+Feature_Level_Enum.Level_1_And_2
+All Count : 1671
+Correct Count : 213.0
+AUC : 0.5637342908438061
+-------------------------------------
+Datasets.Polblogs
+Feature_Calculator_Enum.Adamic_Adar
+Feature_Level_Enum.Level_1
+All Count : 1671
+Correct Count : 302.0
+AUC : 0.5903650508677438
+-------------------------------------
+Datasets.Polblogs
+Feature_Calculator_Enum.Adamic_Adar
+Feature_Level_Enum.Level_2
+All Count : 1671
+Correct Count : 184.0
+AUC : 0.5550568521843208
+-------------------------------------
+Datasets.Polblogs
+Feature_Calculator_Enum.Adamic_Adar
+Feature_Level_Enum.Level_1_And_2
+All Count : 1671
+Correct Count : 209.0
+AUC : 0.5625374027528426
+-------------------------------------
+Datasets.Polblogs
+Feature_Calculator_Enum.Jaccard
+Feature_Level_Enum.Level_1
+**************Exception**************
+Datasets.Polblogs
+Feature_Calculator_Enum.Jaccard
+Feature_Level_Enum.Level_2
+**************Exception**************
+Datasets.Polblogs
+Feature_Calculator_Enum.Jaccard
+Feature_Level_Enum.Level_1_And_2
+**************Exception**************
+Datasets.Polblogs
+Feature_Calculator_Enum.Clustering_Coefficient
+Feature_Level_Enum.Level_1
+All Count : 1671
+Correct Count : 302.0
+AUC : 0.5903650508677438
+-------------------------------------
+Datasets.Polblogs
+Feature_Calculator_Enum.Clustering_Coefficient
+Feature_Level_Enum.Level_2
+All Count : 1671
+Correct Count : 173.0
+AUC : 0.5517654099341711
+-------------------------------------
+Datasets.Polblogs
+Feature_Calculator_Enum.Clustering_Coefficient
+Feature_Level_Enum.Level_1_And_2
+All Count : 1671
+Correct Count : 202.0
+AUC : 0.5604428485936565
+-------------------------------------
+Datasets.Polblogs
+Feature_Calculator_Enum.Local_Naive_Bayes_based_Common_Neighbor
+Feature_Level_Enum.Level_1
+**************Exception**************
+Datasets.Polblogs
+Feature_Calculator_Enum.Local_Naive_Bayes_based_Common_Neighbor
+Feature_Level_Enum.Level_2
+All Count : 1671
+Correct Count : 181.0
+AUC : 0.5541591861160982
+-------------------------------------
+Datasets.Polblogs
+Feature_Calculator_Enum.Local_Naive_Bayes_based_Common_Neighbor
+Feature_Level_Enum.Level_1_And_2
+**************Exception**************
+Datasets.Polblogs
+Feature_Calculator_Enum.Node_and_Link_Clustering_Coefficient
+Feature_Level_Enum.Level_1
+All Count : 1671
+Correct Count : 307.0
+AUC : 0.5918611609814483
+-------------------------------------
+Datasets.Polblogs
+Feature_Calculator_Enum.Node_and_Link_Clustering_Coefficient
+Feature_Level_Enum.Level_2
+All Count : 1671
+Correct Count : 219.0
+AUC : 0.5655296229802513
+-------------------------------------
+Datasets.Polblogs
+Feature_Calculator_Enum.Node_and_Link_Clustering_Coefficient
+Feature_Level_Enum.Level_1_And_2
+All Count : 1671
+Correct Count : 253.0
+AUC : 0.5757031717534411
+-------------------------------------
+Datasets.Polblogs
+Feature_Calculator_Enum.CAR
+Feature_Level_Enum.Level_1
+All Count : 1671
+Correct Count : 309.0
+AUC : 0.59245960502693
+-------------------------------------
+Datasets.Polblogs
+Feature_Calculator_Enum.CAR
+Feature_Level_Enum.Level_2
+All Count : 1671
+Correct Count : 140.0
+AUC : 0.5418910831837224
+-------------------------------------
+Datasets.Polblogs
+Feature_Calculator_Enum.CAR
+Feature_Level_Enum.Level_1_And_2
+All Count : 1671
+Correct Count : 145.0
+AUC : 0.5433871932974267
+-------------------------------------
+Datasets.CA_GRQC
+Feature_Calculator_Enum.Common_Neighbor
+Feature_Level_Enum.Level_1
+All Count : 1449
+Correct Count : 527.0
+AUC : 0.6818495514147688
+-------------------------------------
+Datasets.CA_GRQC
+Feature_Calculator_Enum.Common_Neighbor
+Feature_Level_Enum.Level_2
+All Count : 1449
+Correct Count : 22.0
+AUC : 0.5075914423740511
+-------------------------------------
+Datasets.CA_GRQC
+Feature_Calculator_Enum.Common_Neighbor
+Feature_Level_Enum.Level_1_And_2
+All Count : 1449
+Correct Count : 93.0
+AUC : 0.5320910973084886
+-------------------------------------
+Datasets.CA_GRQC
+Feature_Calculator_Enum.Preferential_Attachment
+Feature_Level_Enum.Level_1
+All Count : 1449
+Correct Count : 81.0
+AUC : 0.5279503105590062
+-------------------------------------
+Datasets.CA_GRQC
+Feature_Calculator_Enum.Preferential_Attachment
+Feature_Level_Enum.Level_2
+All Count : 1449
+Correct Count : 341.0
+AUC : 0.6176673567977916
+-------------------------------------
+Datasets.CA_GRQC
+Feature_Calculator_Enum.Preferential_Attachment
+Feature_Level_Enum.Level_1_And_2
+All Count : 1449
+Correct Count : 340.0
+AUC : 0.6173222912353347
+-------------------------------------
+Datasets.CA_GRQC
+Feature_Calculator_Enum.Resource_Allocation
+Feature_Level_Enum.Level_1
+All Count : 1449
+Correct Count : 801.0
+AUC : 0.7763975155279503
+-------------------------------------
+Datasets.CA_GRQC
+Feature_Calculator_Enum.Resource_Allocation
+Feature_Level_Enum.Level_2
+All Count : 1449
+Correct Count : 59.0
+AUC : 0.5203588681849551
+-------------------------------------
+Datasets.CA_GRQC
+Feature_Calculator_Enum.Resource_Allocation
+Feature_Level_Enum.Level_1_And_2
+All Count : 1449
+Correct Count : 109.0
+AUC : 0.5376121463077985
+-------------------------------------
+Datasets.CA_GRQC
+Feature_Calculator_Enum.Adamic_Adar
+Feature_Level_Enum.Level_1
+All Count : 1449
+Correct Count : 702.0
+AUC : 0.7422360248447205
+-------------------------------------
+Datasets.CA_GRQC
+Feature_Calculator_Enum.Adamic_Adar
+Feature_Level_Enum.Level_2
+All Count : 1449
+Correct Count : 28.0
+AUC : 0.5096618357487923
+-------------------------------------
+Datasets.CA_GRQC
+Feature_Calculator_Enum.Adamic_Adar
+Feature_Level_Enum.Level_1_And_2
+All Count : 1449
+Correct Count : 95.0
+AUC : 0.5327812284334024
+-------------------------------------
+Datasets.CA_GRQC
+Feature_Calculator_Enum.Jaccard
+Feature_Level_Enum.Level_1
+**************Exception**************
+Datasets.CA_GRQC
+Feature_Calculator_Enum.Jaccard
+Feature_Level_Enum.Level_2
+**************Exception**************
+Datasets.CA_GRQC
+Feature_Calculator_Enum.Jaccard
+Feature_Level_Enum.Level_1_And_2
+**************Exception**************
+Datasets.CA_GRQC
+Feature_Calculator_Enum.Clustering_Coefficient
+Feature_Level_Enum.Level_1
+All Count : 1449
+Correct Count : 530.0
+AUC : 0.6828847481021394
+-------------------------------------
+Datasets.CA_GRQC
+Feature_Calculator_Enum.Clustering_Coefficient
+Feature_Level_Enum.Level_2
+All Count : 1449
+Correct Count : 21.0
+AUC : 0.5072463768115942
+-------------------------------------
+Datasets.CA_GRQC
+Feature_Calculator_Enum.Clustering_Coefficient
+Feature_Level_Enum.Level_1_And_2
+All Count : 1449
+Correct Count : 131.0
+AUC : 0.5452035886818496
+-------------------------------------
+Datasets.CA_GRQC
+Feature_Calculator_Enum.Local_Naive_Bayes_based_Common_Neighbor
+Feature_Level_Enum.Level_1
+**************Exception**************
+Datasets.CA_GRQC
+Feature_Calculator_Enum.Local_Naive_Bayes_based_Common_Neighbor
+Feature_Level_Enum.Level_2
+All Count : 1449
+Correct Count : 21.0
+AUC : 0.5072463768115942
+-------------------------------------
+Datasets.CA_GRQC
+Feature_Calculator_Enum.Local_Naive_Bayes_based_Common_Neighbor
+Feature_Level_Enum.Level_1_And_2
+**************Exception**************
+Datasets.CA_GRQC
+Feature_Calculator_Enum.Node_and_Link_Clustering_Coefficient
+Feature_Level_Enum.Level_1
+All Count : 1449
+Correct Count : 541.0
+AUC : 0.6866804692891649
+-------------------------------------
+Datasets.CA_GRQC
+Feature_Calculator_Enum.Node_and_Link_Clustering_Coefficient
+Feature_Level_Enum.Level_2
+All Count : 1449
+Correct Count : 26.0
+AUC : 0.5089717046238785
+-------------------------------------
+Datasets.CA_GRQC
+Feature_Calculator_Enum.Node_and_Link_Clustering_Coefficient
+Feature_Level_Enum.Level_1_And_2
+All Count : 1449
+Correct Count : 315.0
+AUC : 0.6086956521739131
+-------------------------------------
+Datasets.CA_GRQC
+Feature_Calculator_Enum.CAR
+Feature_Level_Enum.Level_1
+All Count : 1449
+Correct Count : 514.0
+AUC : 0.6773636991028296
+-------------------------------------
+Datasets.CA_GRQC
+Feature_Calculator_Enum.CAR
+Feature_Level_Enum.Level_2
+All Count : 1449
+Correct Count : 22.0
+AUC : 0.5075914423740511
+-------------------------------------
+Datasets.CA_GRQC
+Feature_Calculator_Enum.CAR
+Feature_Level_Enum.Level_1_And_2
+All Count : 1449
+Correct Count : 35.0
+AUC : 0.5120772946859904
+-------------------------------------
+Datasets.CA_HepPh
+Feature_Calculator_Enum.Common_Neighbor
+Feature_Level_Enum.Level_1
+All Count : 11852
+Correct Count : 6011.0
+AUC : 0.7535858926763416
+-------------------------------------
+Datasets.CA_HepPh
+Feature_Calculator_Enum.Common_Neighbor
+Feature_Level_Enum.Level_2
+All Count : 11852
+Correct Count : 130.0
+AUC : 0.5054843064461694
+-------------------------------------

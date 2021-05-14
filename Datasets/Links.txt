@@ -1,0 +1,12 @@
+Football [52] : https://figshare.com/articles/network_of_American_football_games_between_Division_IA_colleges_during_regular_season_Fall_2000/1149953
+Celegansneural [42] : https://sites.google.com/site/ucinetsoftware/datasets/celegansneural And http://www.casos.cs.cmu.edu/tools/datasets/external/celegansneural/
+USAir97 : http://networkrepository.com/USAir97.php
+Political blogs : http://www-personal.umich.edu/~mejn/netdata/polblogs.zip
+Power grid : http://www-personal.umich.edu/~mejn/netdata/power.zip
+ca-GrQc : http://snap.stanford.edu/data/ca-GrQc.txt.gz
+ca-HepPh : http://snap.stanford.edu/data/ca-HepPh.txt.gz
+ca-HepTh : https://snap.stanford.edu/data/ca-HepTh.txt.gz -- Node : 9877
+HepTh : http://www-personal.umich.edu/~mejn/netdata/hep-th.zip -- Node : 8361
+Yeast : http://vlado.fmf.uni-lj.si/pub/networks/data/bio/Yeast/yeast.zip
+Macaque : https://s3.amazonaws.com/connectome-graphs/macaque/rhesus_cerebral.cortex_1.graphml
+Amazon : http://wwwlovre.appspot.com/resources/research/networks/ldpc/amazon.net

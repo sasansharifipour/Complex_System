@@ -1,0 +1,115 @@
+BrighamYoung FloridaState NewMexico SanDiegoState Wyoming Utah Virginia Syracuse ColoradoState MississippiState UtahState AirForce NevadaLasVegas
+FloridaState BrighamYoung NorthCarolinaState Florida Virginia GeorgiaTech Duke Louisville NorthCarolina MiamiFlorida Clemson WakeForest Maryland
+Iowa KansasState PennState Northwestern WesternMichigan Wisconsin OhioState Minnesota Illinois IowaState Nebraska MichiganState Indiana
+KansasState Iowa TexasTech NorthTexas BallState Colorado Kansas LouisianaTech IowaState Nebraska TexasA&M Oklahoma Missouri
+NewMexico BrighamYoung TexasTech SanDiegoState Wyoming Utah BoiseState ColoradoState NewMexicoState AirForce NevadaLasVegas OregonState
+TexasTech KansasState NewMexico Baylor NorthTexas Kansas Nebraska TexasA&M Oklahoma UtahState LouisianaLafayette Texas OklahomaState
+PennState Iowa SouthernCalifornia Michigan Purdue OhioState Pittsburgh LouisianaTech Minnesota Illinois Toledo MichiganState Indiana
+SouthernCalifornia PennState ArizonaState UCLA Arizona Colorado Oregon SanJoseState Stanford WashingtonState NotreDame OregonState California
+ArizonaState SouthernCalifornia SanDiegoState UCLA Arizona ColoradoState Washington Oregon Stanford WashingtonState UtahState California
+SanDiegoState BrighamYoung NewMexico ArizonaState Wyoming Arizona Utah ColoradoState Illinois AirForce NevadaLasVegas OregonState
+Baylor TexasTech NorthTexas Minnesota IowaState Nebraska TexasA&M Oklahoma Texas Missouri OklahomaState
+NorthTexas KansasState TexasTech Baylor ArkansasState BoiseState Idaho NewMexicoState UtahState LouisianaLafayette NevadaLasVegas
+NorthernIllinois Northwestern WesternMichigan Auburn Akron BallState Buffalo CentralFlorida CentralMichigan EasternMichigan Toledo
+Northwestern Iowa NorthernIllinois Wisconsin Michigan Purdue Duke Minnesota Illinois MichiganState Indiana TexasChristian
+WesternMichigan Iowa NorthernIllinois Wisconsin BallState CentralMichigan EasternMichigan Kent Ohio Toledo Marshall
+Wisconsin Iowa Northwestern WesternMichigan Michigan Purdue OhioState Minnesota Oregon Cincinnati MichiganState Indiana Hawaii
+Wyoming BrighamYoung NewMexico SanDiegoState Auburn Utah CentralMichigan ColoradoState Nevada TexasA&M AirForce NevadaLasVegas
+Auburn NorthernIllinois Wyoming Alabama Florida LouisianaTech Vanderbilt MississippiState Mississippi Georgia LouisianaState Arkansas
+Akron NorthernIllinois VirginiaTech BowlingGreenState Buffalo CentralFlorida CentralMichigan Connecticut Kent MiamiOhio Ohio Marshall
+VirginiaTech Akron BostonCollege WestVirginia Virginia Syracuse CentralFlorida EastCarolina Pittsburgh Temple Rutgers MiamiFlorida
+Alabama Auburn UCLA CentralFlorida Vanderbilt MississippiState SouthCarolina SouthernMississippi Tennessee Mississippi LouisianaState Arkansas
+UCLA SouthernCalifornia ArizonaState Alabama Arizona Michigan FresnoState Washington Oregon Stanford OregonState California
+Arizona SouthernCalifornia ArizonaState SanDiegoState UCLA Utah OhioState Washington Oregon Stanford WashingtonState OregonState
+Utah BrighamYoung NewMexico SanDiegoState Wyoming Arizona ColoradoState WashingtonState UtahState AirForce NevadaLasVegas California
+ArkansasState NorthTexas NorthCarolinaState BoiseState Idaho Memphis NewMexicoState Oklahoma Mississippi UtahState TexasChristian
+NorthCarolinaState FloridaState ArkansasState Virginia GeorgiaTech Duke SouthernMethodist NorthCarolina Clemson WakeForest Indiana Maryland
+BallState KansasState NorthernIllinois WesternMichigan Florida Buffalo CentralMichigan Connecticut EasternMichigan MiamiOhio Toledo
+Florida FloridaState Auburn BallState Kentucky Vanderbilt MiddleTennesseeState MississippiState SouthCarolina Tennessee Georgia LouisianaState
+BoiseState NewMexico NorthTexas ArkansasState CentralMichigan Idaho NewMexicoState WashingtonState UtahState Arkansas
+BostonCollege VirginiaTech WestVirginia Syracuse Connecticut Pittsburgh Temple Navy NotreDame Army Rutgers MiamiFlorida
+WestVirginia VirginiaTech BostonCollege Syracuse EastCarolina Idaho Pittsburgh Temple NotreDame Rutgers MiamiFlorida Maryland
+BowlingGreenState Akron Michigan Buffalo EasternMichigan Kent Pittsburgh MiamiOhio Ohio Temple Toledo Marshall
+Michigan PennState Northwestern Wisconsin UCLA BowlingGreenState Purdue OhioState Rice Illinois MichiganState Indiana
+Virginia BrighamYoung FloridaState VirginiaTech NorthCarolinaState GeorgiaTech Duke NorthCarolina Clemson WakeForest Maryland
+Buffalo NorthernIllinois Akron BallState BowlingGreenState Syracuse Connecticut Kent MiamiOhio Ohio Rutgers Marshall
+Syracuse BrighamYoung VirginiaTech BostonCollege WestVirginia Buffalo EastCarolina Pittsburgh Temple Cincinnati Rutgers MiamiFlorida
+CentralFlorida NorthernIllinois Akron VirginiaTech Alabama GeorgiaTech EasternMichigan LouisianaTech LouisianaMonroe
+GeorgiaTech FloridaState NorthCarolinaState Virginia CentralFlorida Duke Navy NorthCarolina Georgia Clemson WakeForest Maryland
+CentralMichigan NorthernIllinois WesternMichigan Wyoming Akron BallState BoiseState Purdue EasternMichigan Kent Ohio Toledo
+Purdue PennState Northwestern Wisconsin Michigan CentralMichigan OhioState Kent Minnesota NotreDame MichiganState Indiana
+Colorado KansasState SouthernCalifornia ColoradoState Washington Kansas IowaState Nebraska TexasA&M Texas Missouri OklahomaState
+ColoradoState BrighamYoung NewMexico ArizonaState SanDiegoState Wyoming Utah Colorado Nevada AirForce NevadaLasVegas
+Connecticut Akron BallState BostonCollege Buffalo EasternMichigan Louisville MiddleTennesseeState
+EasternMichigan NorthernIllinois WesternMichigan BallState BowlingGreenState CentralFlorida CentralMichigan Connecticut MiamiOhio SouthCarolina Temple Toledo
+EastCarolina VirginiaTech WestVirginia Syracuse Duke Houston Louisville Memphis SouthernMississippi Tulane Army AlabamaBirmingham
+Duke FloridaState Northwestern NorthCarolinaState Virginia GeorgiaTech EastCarolina Vanderbilt NorthCarolina Clemson WakeForest Maryland
+FresnoState UCLA OhioState Rice SouthernMethodist Nevada SanJoseState TexasElPaso Tulsa TexasChristian California Hawaii
+OhioState Iowa PennState Wisconsin Arizona Michigan Purdue FresnoState Minnesota MiamiOhio Illinois MichiganState
+Houston EastCarolina Rice SouthernMethodist Louisville Memphis SouthernMississippi Tulane Army Cincinnati LouisianaState Texas
+Rice Michigan FresnoState Houston SouthernMethodist Nevada SanJoseState TexasElPaso Oklahoma Tulsa TexasChristian Hawaii
+Idaho NorthTexas ArkansasState BoiseState WestVirginia Washington Oregon NewMexicoState WashingtonState UtahState
+Washington ArizonaState UCLA Arizona Colorado Idaho Oregon Stanford WashingtonState MiamiFlorida OregonState California
+Kansas KansasState TexasTech Colorado SouthernMethodist IowaState Nebraska Oklahoma Texas Missouri AlabamaBirmingham
+SouthernMethodist NorthCarolinaState FresnoState Houston Rice Kansas Nevada SanJoseState TexasElPaso Tulane Tulsa TexasChristian Hawaii
+Kent WesternMichigan Akron BowlingGreenState Buffalo CentralMichigan Purdue Pittsburgh MiamiOhio Ohio Marshall
+Pittsburgh PennState VirginiaTech BostonCollege WestVirginia BowlingGreenState Syracuse Kent Temple NorthCarolina Rutgers MiamiFlorida
+Kentucky Florida Louisville Vanderbilt MississippiState SouthCarolina Tennessee Mississippi Georgia LouisianaState Indiana
+Louisville FloridaState Connecticut EastCarolina Houston Kentucky SouthernMississippi Tulane Army Cincinnati AlabamaBirmingham
+LouisianaTech KansasState PennState Auburn CentralFlorida LouisianaMonroe MiddleTennesseeState Tulsa LouisianaLafayette MiamiFlorida Hawaii
+LouisianaMonroe CentralFlorida LouisianaTech Minnesota MiddleTennesseeState Memphis Tennessee LouisianaLafayette Arkansas
+Minnesota Iowa PennState Baylor Northwestern Wisconsin Purdue OhioState LouisianaMonroe Illinois Ohio Indiana
+MiamiOhio Akron BallState BowlingGreenState Buffalo EasternMichigan OhioState Kent Vanderbilt Ohio Cincinnati Marshall
+Vanderbilt Auburn Alabama Florida Duke Kentucky MiamiOhio SouthCarolina Tennessee Mississippi Georgia WakeForest
+MiddleTennesseeState Florida Connecticut LouisianaTech LouisianaMonroe Illinois MississippiState LouisianaLafayette Maryland AlabamaBirmingham
+Illinois Iowa PennState SanDiegoState Northwestern Michigan OhioState Minnesota MiddleTennesseeState MichiganState Indiana California
+MississippiState BrighamYoung Auburn Alabama Florida Kentucky MiddleTennesseeState Memphis SouthCarolina Mississippi LouisianaState Arkansas
+Memphis ArkansasState EastCarolina Houston LouisianaMonroe MississippiState SouthernMississippi Tennessee Tulane Army Cincinnati AlabamaBirmingham
+Nevada Wyoming ColoradoState FresnoState Rice SouthernMethodist Oregon SanJoseState TexasElPaso Tulsa NevadaLasVegas TexasChristian Hawaii
+Oregon SouthernCalifornia ArizonaState Wisconsin UCLA Arizona Idaho Washington Nevada WashingtonState OregonState California
+NewMexicoState NewMexico NorthTexas ArkansasState BoiseState Idaho SouthCarolina TexasElPaso Tulsa UtahState Army Georgia
+SouthCarolina Alabama Florida EasternMichigan Kentucky Vanderbilt MississippiState NewMexicoState Tennessee Georgia Clemson Arkansas
+Ohio WesternMichigan Akron BowlingGreenState Buffalo CentralMichigan Kent Minnesota MiamiOhio IowaState Marshall
+IowaState Iowa KansasState Baylor Colorado Kansas Ohio Nebraska TexasA&M Missouri NevadaLasVegas OklahomaState
+SanJoseState SouthernCalifornia FresnoState Rice SouthernMethodist Nevada Nebraska Stanford TexasElPaso Tulsa TexasChristian Hawaii
+Nebraska Iowa KansasState TexasTech Baylor Colorado Kansas IowaState SanJoseState NotreDame Oklahoma Missouri
+SouthernMississippi Alabama EastCarolina Houston Louisville Memphis Tennessee Tulane Cincinnati OklahomaState AlabamaBirmingham
+Tennessee Alabama Florida Kentucky LouisianaMonroe Vanderbilt Memphis SouthCarolina SouthernMississippi Georgia LouisianaState Arkansas
+Stanford SouthernCalifornia ArizonaState UCLA Arizona Washington SanJoseState WashingtonState NotreDame Texas OregonState California
+WashingtonState SouthernCalifornia ArizonaState Arizona Utah BoiseState Idaho Washington Oregon Stanford OregonState California
+Temple VirginiaTech BostonCollege WestVirginia BowlingGreenState Syracuse EasternMichigan Pittsburgh Navy Rutgers MiamiFlorida Maryland
+Navy BostonCollege GeorgiaTech Temple NotreDame Toledo Tulane Army AirForce Rutgers WakeForest TexasChristian
+TexasA&M KansasState TexasTech Baylor Wyoming Colorado IowaState NotreDame TexasElPaso Oklahoma Texas OklahomaState
+NotreDame SouthernCalifornia BostonCollege WestVirginia Purdue Nebraska Stanford Navy TexasA&M AirForce Rutgers MichiganState
+TexasElPaso FresnoState Rice SouthernMethodist Nevada NewMexicoState SanJoseState TexasA&M Oklahoma Tulsa TexasChristian Hawaii
+Oklahoma KansasState TexasTech Baylor ArkansasState Rice Kansas Nebraska TexasA&M TexasElPaso Texas OklahomaState
+Toledo PennState NorthernIllinois WesternMichigan BallState BowlingGreenState CentralMichigan EasternMichigan Navy Marshall
+Tulane EastCarolina Houston SouthernMethodist Louisville Memphis SouthernMississippi Navy Mississippi Army Cincinnati LouisianaLafayette
+Mississippi Auburn Alabama ArkansasState Kentucky Vanderbilt MississippiState Tulane Georgia LouisianaState NevadaLasVegas Arkansas
+Tulsa FresnoState Rice SouthernMethodist LouisianaTech Nevada NewMexicoState SanJoseState TexasElPaso NorthCarolina OklahomaState TexasChristian Hawaii
+NorthCarolina FloridaState NorthCarolinaState Virginia GeorgiaTech Duke Pittsburgh Tulsa Marshall Clemson WakeForest Maryland
+UtahState BrighamYoung TexasTech ArizonaState NorthTexas Utah ArkansasState BoiseState Idaho NewMexicoState
+Army BostonCollege EastCarolina Houston Louisville Memphis NewMexicoState Navy Tulane Cincinnati AirForce AlabamaBirmingham
+Cincinnati Wisconsin Syracuse Houston Louisville MiamiOhio Memphis SouthernMississippi Tulane Army Indiana AlabamaBirmingham
+AirForce BrighamYoung NewMexico SanDiegoState Wyoming Utah ColoradoState Navy NotreDame Army NevadaLasVegas
+Rutgers VirginiaTech BostonCollege WestVirginia Buffalo Syracuse Pittsburgh Temple Navy NotreDame MiamiFlorida
+Georgia Auburn Florida GeorgiaTech Kentucky Vanderbilt NewMexicoState SouthCarolina Tennessee Mississippi Arkansas
+LouisianaState Auburn Alabama Florida Houston Kentucky MississippiState Tennessee Mississippi AlabamaBirmingham Arkansas
+LouisianaLafayette TexasTech NorthTexas LouisianaTech LouisianaMonroe MiddleTennesseeState Tulane Texas AlabamaBirmingham
+Texas TexasTech Baylor Colorado Houston Kansas Stanford TexasA&M Oklahoma LouisianaLafayette Missouri OklahomaState
+Marshall WesternMichigan Akron BowlingGreenState Buffalo Kent MiamiOhio Ohio Toledo NorthCarolina MichiganState
+MichiganState Iowa PennState Northwestern Wisconsin Michigan Purdue OhioState Illinois NotreDame Marshall Missouri
+MiamiFlorida FloridaState VirginiaTech BostonCollege WestVirginia Syracuse Washington Pittsburgh LouisianaTech Temple Rutgers
+Missouri KansasState Baylor Colorado Kansas IowaState Nebraska Texas MichiganState Clemson OklahomaState
+Clemson FloridaState NorthCarolinaState Virginia GeorgiaTech Duke SouthCarolina NorthCarolina Missouri WakeForest Maryland
+NevadaLasVegas BrighamYoung NewMexico SanDiegoState NorthTexas Wyoming Utah ColoradoState Nevada IowaState Mississippi AirForce Hawaii
+WakeForest FloridaState NorthCarolinaState Virginia GeorgiaTech Duke Vanderbilt Navy NorthCarolina Clemson Maryland
+Indiana Iowa PennState Northwestern Wisconsin NorthCarolinaState Michigan Purdue Kentucky Minnesota Illinois Cincinnati
+OklahomaState TexasTech Baylor Colorado IowaState SouthernMississippi TexasA&M Oklahoma Tulsa Texas Missouri
+OregonState NewMexico SouthernCalifornia SanDiegoState UCLA Arizona Washington Oregon Stanford WashingtonState California
+Maryland FloridaState NorthCarolinaState WestVirginia Virginia GeorgiaTech Duke MiddleTennesseeState Temple NorthCarolina Clemson WakeForest
+TexasChristian Northwestern ArkansasState FresnoState Rice SouthernMethodist Nevada SanJoseState Navy TexasElPaso Tulsa Hawaii
+California SouthernCalifornia ArizonaState UCLA Utah FresnoState Washington Illinois Oregon Stanford WashingtonState OregonState
+AlabamaBirmingham EastCarolina Kansas Louisville MiddleTennesseeState Memphis SouthernMississippi Army Cincinnati LouisianaState LouisianaLafayette
+Arkansas Auburn Alabama BoiseState LouisianaMonroe MississippiState SouthCarolina Tennessee Mississippi Georgia LouisianaState
+Hawaii Wisconsin FresnoState Rice SouthernMethodist LouisianaTech Nevada SanJoseState TexasElPaso Tulsa NevadaLasVegas TexasChristian
